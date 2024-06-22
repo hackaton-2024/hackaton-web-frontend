@@ -10,3 +10,7 @@
   box-sizing: border-box;
 }
 
+.button-gradient{
+  background: linear-gradient(to right, #FC6E0E 0%, #E82B00 100%);
+}
+
